@@ -188,7 +188,7 @@ The prediction value depends on the input features and the dataset used for trai
 
 ---
 
-##🔬 Machine Learning Model
+## 🔬 Machine Learning Model
 
 This project uses:
 
